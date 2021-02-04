@@ -7,4 +7,4 @@ BEE_PLUGIN_INFO="Useful commands for android development - https://github.com/ss
 BEE_PLUGIN_SOURCE_HTTPS="https://github.com/sschmid/bee-android.git"
 BEE_PLUGIN_SOURCE_SSH="git@github.com:sschmid/bee-android.git"
 BEE_PLUGIN_TAG="1.0.0"
-BEE_PLUGIN_SHA256="da3b17e180b4be43f1170299c7c0dd8bd7a850d9386c5575330e1b379e040794"
+BEE_PLUGIN_SHA256="0a25284dc514e02cb496537b19737a9a30a9293df1afdcb4633aff7ea47959d3"
